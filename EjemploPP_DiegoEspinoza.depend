@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1525533221 source:d:\ppejemplo_diegoespinoza\ejemplopp_diegoespinoza\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Usuario.h"
+	"Producto.h"
+
+1525527107 d:\ppejemplo_diegoespinoza\ejemplopp_diegoespinoza\usuario.h
+
+1525531679 source:d:\ppejemplo_diegoespinoza\ejemplopp_diegoespinoza\producto.c
+	"Producto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Usuario.h"
+
+1525533211 d:\ppejemplo_diegoespinoza\ejemplopp_diegoespinoza\producto.h
+	"Usuario.h"
+
+1525532274 source:d:\ppejemplo_diegoespinoza\ejemplopp_diegoespinoza\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Usuario.h"
+
